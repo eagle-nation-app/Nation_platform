@@ -1,0 +1,6 @@
+{
+  "name": "Eagle Nation",
+  "description": "Eagle Nation - Advanced networking and collaboration platform for students, researchers, innovators, and academic communities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
